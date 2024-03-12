@@ -6,7 +6,7 @@
 </div>
 
 
-My name is Samrit Basnet, a Junore React developer eager to expand my skills and delve into new frontend technologies. I'm driven by a desire to continuously learn and grow, particularly in crafting seamless website experiences. Originally from Nepal 🇳🇵,currently in Canada🇨🇦. I have a background in full-stack development and experience in agile development methodologies. I thrive on exploring fresh ideas and creating innovative digital solutions for complex issues, relishing every step of the product development journey from conception to launch.
+My name is Samrit Basnet, a Junior React developer eager to expand my skills and delve into new frontend technologies. I'm driven by a desire to continuously learn and grow, particularly in crafting seamless website experiences. Originally from Nepal 🇳🇵,currently in Canada🇨🇦. I have a background in full-stack development and experience in agile development methodologies. I thrive on exploring fresh ideas and creating innovative digital solutions for complex issues, relishing every step of the product development journey from conception to launch.
 
 <details>
  <summary>My Tech Stack</summary>
@@ -20,7 +20,7 @@ My name is Samrit Basnet, a Junore React developer eager to expand my skills and
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />   
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/asp.net-original.svg" alt="Asp.net" height="50" />   
+ 
 </div>
 </td><td valign="top" width="33%">
 
