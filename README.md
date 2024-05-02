@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am Samrit Basnet recent graduate from Conestoga College in Computer Application Development(Post Graduate)
+I am Samrit Basnet recent graduate from Conestoga College 
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 💼 Self-Employed working on side Projects
 - 🎓 Finished Post Graduate in Computer Application Development from Conestoga College at April 2024
