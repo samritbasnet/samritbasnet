@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **NextJs,React and Drizzle**
 
-- 👨‍💻 All of my projects are available at [samritportfolio.vercel.app](samritportfolio.vercel.app)
 
 - 💬 Ask me about **Javascript,C# and Java**
 
