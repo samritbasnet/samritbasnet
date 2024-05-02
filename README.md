@@ -7,11 +7,6 @@
 
 - 🔭 I’m currently working on [Landing Page](https://github.com/samritbasnet/digitaldreams-)
 
-- 🌱 I’m currently learning **NextJs,React and Drizzle**
-
-
-- 💬 Ask me about **Javascript,C# and Java**
-
 - 📫 How to reach me **Samritbasnet70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
