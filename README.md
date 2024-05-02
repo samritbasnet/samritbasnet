@@ -1,7 +1,5 @@
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm ((Samrit |nd Li)|https://samritbasnet.me)" title="👋 Hi there! I'm (Samrit Basnet)|https://samritbasnet.me)"/>](https://samritbasnet.me/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
 Here are some ideas to get you started:
 
