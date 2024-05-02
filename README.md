@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrit Basnet</h1>
-<h3 align="center">A "Enthusiastic and Driven Full Stack Developer: Leveraging Fresh Perspective to Create Innovative Solutions</h3>
+<h3 align="center">"Enthusiastic and Driven Full Stack Developer: Leveraging Fresh Perspective to Create Innovative Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samritbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="samritbasnet" /> </p>
 
