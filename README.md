@@ -18,7 +18,7 @@
 ### Other links
 
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true)](mailto:samritbasnet70@gmail.com)
-[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/samritbasnet)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/samritbasnet/)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=x&titles=true)](https://x.com/samritbasnet)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/samritbasnet)
 
